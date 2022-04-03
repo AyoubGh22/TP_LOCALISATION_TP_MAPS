@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GeoLocalisation</string>
+    <string name="Now">Now</string>
+    <string name="ActivateGpsRequest">"Please Activate Your Gps To Get Your Current Weather"</string>
+    <string name="okay">Okay</string>
+    <string name="Morocco">Morocco</string>
+    <string name="marrakech">Marrakech</string>
+    <string name="next_7_days">Next 7 days</string>
+    <string name="todo">TODO</string>
+    <string name="today">Today</string>
+    <string name="wed_3_dec">wed,3 Dec</string>
+    <string name="_24c">24C</string>
+    <string name="feel_like_15">Feel like 15</string>
+    <string name="sunrise">SUNRISE</string>
+    <string name="sunset">SUNSET</string>
+    <string name="_7_38am">7:38am</string>
+    <string name="_3_55am">3:55am</string>
+    <string name="precipitation">PRECIPITATION</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="_90">90%</string>
+    <string name="_77">77%</string>
+    <string name="wind">WIND</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="_11_km_h">11 km/h</string>
+    <string name="_1015_hpa">1015 hpa</string>
+    <string name="AdMobApplicationId">ca-app-pub-8004564561830355~4377396962</string>
+    <string name="adMobBannerId">ca-app-pub-8004564561830355/8576496424</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!--  real  ca-app-pub-8004564561830355/2809148518
+	test ca-app-pub-3940256099942544/6300978111-->
+</resources>
